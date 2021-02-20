@@ -16,7 +16,7 @@ We chose grocery as our category and used Pyspart to create an ETL process that 
 
 ## Results
 
-<img src="">
+<img src="https://github.com/andralobo/Module16-Challenge/blob/main/Averages.png?raw=true" width="auto" height="auto">
 
 <b>How many Vine reviews and non-Vine reviews were there?</b>
 
